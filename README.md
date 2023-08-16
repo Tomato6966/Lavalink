@@ -98,18 +98,19 @@ Version numbers can come in different combinations, depending on the release typ
 ---
 
 ## Client libraries:
-| Client                                                          | Platform | Compatible With                            | Additional Information |
-|-----------------------------------------------------------------|----------|--------------------------------------------|------------------------|
-| [Lavalink.kt](https://github.com/DRSchlaubi/Lavalink.kt)        | Kotlin   | Kord/JDA/**Any**                           | Kotlin Coroutines      |
-| [DisGoLink](https://github.com/disgoorg/disgolink)              | Go       | **Any**                                    |                        |
-| [Mafic](https://github.com/ooliver1/mafic)                      | Python   | discord.py **V2**/nextcord/disnake/py-cord |                        |
-| [Moonlink.js](https://github.com/1Lucas1apk/moonlink.js)        | Node.js  | **Any**                                    |                        |
-| [Magmastream](https://github.com/Blackfort-Hosting/magmastream) | Node.js  | **Any**                                    |                        |
-| [Lavacord](https://github.com/lavacord/Lavacord)                | Node.js  | **Any**                                    |                        |
-| [Shoukaku](https://github.com/Deivu/Shoukaku)                   | Node.js  | **Any**                                    |                        |
-| [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp)   | .NET     | DisCatSharp                                | v10.4.2+               |
-| [Coglink](https://github.com/PerformanC/Coglink)                | C        | Concord                                    |                        |
-| [lavalink-rs](https://gitlab.com/vicky5124/lavalink-rs)         | Rust     | **Any**                                    | `tokio`-based          |
+| Client                                                           | Platform | Compatible With                            | Additional Information          |
+|------------------------------------------------------------------|----------|--------------------------------------------|---------------------------------|
+| [Lavalink.kt](https://github.com/DRSchlaubi/Lavalink.kt)         | Kotlin   | Kord/JDA/**Any**                           | Kotlin Coroutines               |
+| [DisGoLink](https://github.com/disgoorg/disgolink)               | Go       | **Any**                                    |                                 |
+| [Mafic](https://github.com/ooliver1/mafic)                       | Python   | discord.py **V2**/nextcord/disnake/py-cord |                                 |
+| [Lavalink-Client](https://github.com/tomato6966/lavalink-client) | Node.js  | **Any** (`Ts`, `(c/m)Js`, `esm`)           | v4 only, Async (custom stores)  |
+| [Moonlink.js](https://github.com/1Lucas1apk/moonlink.js)         | Node.js  | **Any**                                    |                                 |
+| [Magmastream](https://github.com/Blackfort-Hosting/magmastream)  | Node.js  | **Any**                                    |                                 |
+| [Lavacord](https://github.com/lavacord/Lavacord)                 | Node.js  | **Any**                                    |                                 |
+| [Shoukaku](https://github.com/Deivu/Shoukaku)                    | Node.js  | **Any**                                    |                                 |
+| [DisCatSharp](https://github.com/Aiko-IT-Systems/DisCatSharp)    | .NET     | DisCatSharp                                | v10.4.2+                        |
+| [Coglink](https://github.com/PerformanC/Coglink)                 | C        | Concord                                    |                                 |
+| [lavalink-rs](https://gitlab.com/vicky5124/lavalink-rs)          | Rust     | **Any**                                    | `tokio`-based                   |
 
 <details>
 <summary>v3.7 supporting Client Libraries</summary>
@@ -121,8 +122,7 @@ Version numbers can come in different combinations, depending on the release typ
 | [Mafic](https://github.com/ooliver1/mafic)                       | Python   | discord.py **V2**/nextcord/disnake/py-cord |                                 |
 | [Wavelink](https://github.com/PythonistaGuild/Wavelink)          | Python   | discord.py **V2**                          |                                 |
 | [Pomice](https://github.com/cloudwithax/pomice)                  | Python   | discord.py **V2**                          |                                 |
-| [Lavacord](https://github.com/lavacord/lavacord)                 | Node.js  | **Any**                                    |                                 |
-| [Lavalink-Client](https://github.com/tomato6966/lavalink-client) | Node.js  | **Any** (`Ts`, `(c/m)Js`, `esm`)           | v4 only, Async - Dbs/Redis/Map  |
+| [Lavacord](https://github.com/lavacord/lavacord)                 | Node.js  | **Any**                                    |                                 
 | [Poru](https://github.com/parasop/poru)                          | Node.js  | **Any**                                    |                                 |
 | [Shoukaku](https://github.com/Deivu/Shoukaku)                    | Node.js  | **Any**                                    |                                 |
 | [Cosmicord.js](https://github.com/SudhanPlayz/Cosmicord.js)      | Node.js  | **Any**                                    |                                 |
